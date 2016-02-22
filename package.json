@@ -15,6 +15,11 @@
     "latitude",
     "longitude"
   ],
-  "author": "Nate Fischer",
-  "license": "MIT"
+  "author": "Nate Fischer <ntfschr@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nfischer/sunrisesunsetcalculator.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nfischer/sunrisesunsetcalculator"
 }
