@@ -1,0 +1,20 @@
+{
+  "name": "sunrisesunsetcalculator",
+  "version": "0.1.0",
+  "description": "Sunrise/Sunset Calculator",
+  "main": "sunrisesunset.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "sunrise",
+    "sunset",
+    "calculator",
+    "astronomy",
+    "timezone",
+    "latitude",
+    "longitude"
+  ],
+  "author": "Nate Fischer",
+  "license": "MIT"
+}
